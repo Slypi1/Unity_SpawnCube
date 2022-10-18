@@ -1,0 +1,4 @@
+#Wed Oct 19 00:55:10 NOVT 2022
+base.0=Z\:\\modelki\\zadania\\Test\\TZ_Playclapp\\TZ_Playclapp\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
